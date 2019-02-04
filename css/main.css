@@ -1,0 +1,71 @@
+@charset "utf-8";
+/*CSS document*/
+
+.hidden
+{
+	display: none;
+}
+
+body
+{
+	background-color: #fff;
+}
+
+#siteContainer
+{
+	width: 980px;
+	margin: 0 auto;
+}
+
+#topBar
+{
+	width: 980px;
+	height: 21px;
+	background-color: #000;
+
+}
+
+
+#mainHeader
+{
+	width: 980px;
+	height: 183px;
+	border-bottom: solid 1px;
+	display: flex;
+	flex-direction: row;
+}
+
+#logo
+{
+	width: 164px;
+	height: 145px;
+	background-color: #000;
+	margin-top: 25px;
+	margin-left: 30px;
+}
+
+#nav
+{
+	width: 707px;
+	height: 42px;
+	background-color: #000;
+
+}
+#mainNav
+{
+	margin-left: 50px;
+	width: 707px;
+	height: 110px;
+	margin-top: 50px;
+}
+
+#memberBut
+{
+	width: 172px;
+    height: 44px;
+    background-color: #000;
+    margin-left: auto;
+    margin-top: 25px;
+
+}
+
