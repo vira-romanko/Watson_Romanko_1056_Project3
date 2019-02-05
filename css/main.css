@@ -69,3 +69,205 @@ body
 
 }
 
+#contactHeading {
+	background-color: black;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: 100px;
+	text-align: center;
+	}
+
+#formCon {
+	display: flex;
+	flex-direction: column;
+	background-color: black;
+	height: 1052px;
+	width: 737px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#nameInput {
+	background-color: gray;
+	height: 105px;
+	width: 650px;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+#emailInput {
+	background-color: gray;
+	height: 105px;
+	width: 650px;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+#checkBox {
+	background-color: gray;
+	height: 325px;
+	width: 505px;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+#messageInput {
+	background-color: gray;
+	height: 365px;
+	width: 650px;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+#Submit {
+	background-color: gray;
+	width: 175px;
+	height: 60px;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+
+#meetingsHeading {
+	background-color: black;
+	margin-top: 40px;
+	width: 270px;
+	height: 120px;
+	margin-left: 81px;
+}
+
+#meetingsInfo {
+	display: flex;
+	flex-direction: column;
+
+}
+
+#dateCon {
+	background-color: black;
+	display: flex;
+	flex-direction: row;
+	width: 819px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+#dateIcon {
+	background-color: gray;
+	width: 195px;
+	height: 55px;
+}
+
+#dateInfo {
+	background-color: gray;
+	width: 395px;
+	height: 55px;
+	margin-left: auto;
+}
+
+#timeCon {
+	background-color: black;
+	display: flex;
+	flex-direction: row;
+	width: 819px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+#timeIcon {
+	background-color: gray;
+	width: 195px;
+	height: 55px;
+}
+
+#timeInfo {
+	background-color: gray;
+	width: 395px;
+	height: 55px;
+	margin-left: auto;
+}
+
+#locationCon {
+	background-color: black;
+	display: flex;
+	flex-direction: row;
+	width: 819px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+}
+
+#locationIcon {
+	background-color: gray;
+	width: 195px;
+	height: 55px;
+}
+
+#locationInfo {
+	background-color: gray;
+	width: 395px;
+	height: 55px;
+	margin-left: auto;
+}
+
+#googlemapsPlug {
+	background-color: black;
+	width: 340px;
+	height: 275px;
+	margin-left: 81px;
+	margin-top: 25px;
+}
+
+/*footer*/
+
+
+#mainFooter
+{
+	width: 980px;
+	height: 178px;
+	border-top: solid 1px #000;
+	display: flex;
+	flex-direction: row;
+	margin-top: 100px;
+}
+
+
+#footLogo
+{
+	width: 150px;
+	height: 132px;
+	background-color: #000;
+	display: flex;
+	justify-content: flex-start;
+	margin-top: 35px;
+	margin-left: 15px;
+
+}
+
+#botNav
+{
+	width:750px; 
+	height: 99px;
+	background-color: #000;
+	display: flex;
+	margin-left: 15px;
+	margin-top: 54px;
+
+
+}
+
+
+#bottomBar
+{
+	width: 980px;
+	height: 21px;
+	background-color: #000;
+
+}
