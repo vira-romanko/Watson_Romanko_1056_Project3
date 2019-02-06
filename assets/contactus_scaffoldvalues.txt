@@ -1,0 +1,110 @@
+anglers.org - contact us scaffold values
+
+#contactHeading:
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: 100px;
+
+#formCon:
+	height: 1052px;
+	width: 737px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+
+#nameInput:
+	height: 105px;
+	width: 650px;
+	margin-top: 20px;
+	margin-left: 40px;
+
+#emailInput:
+	height: 105px;
+	width: 650px;
+	margin-top: 40px;
+	margin-left: 40px;
+
+#checkBox:
+	height: 325px;
+	width: 505px;
+	margin-top: 40px;
+	margin-left: 40px;
+
+
+#messageInput:
+	height: 365px;
+	width: 650px;
+	margin-top: 40px;
+	margin-left: 40px;
+
+#Submit:
+	width: 175px;
+	height: 60px;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-bottom: 20px;
+
+#meetingsHeading:
+	margin-top: 40px;
+	width: 270px;
+	height: 120px;
+	margin-left: 81px;
+
+#dateCon:
+	width: 819px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+
+#dateIcon:
+	width: 195px;
+	height: 55px;
+
+
+#dateInfo:
+	width: 395px;
+	height: 55px;
+	margin-left: auto;
+
+#timeCon:
+	width: 819px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+
+#timeIcon:
+	width: 195px;
+	height: 55px;
+
+#timeInfo:
+	width: 395px;
+	height: 55px;
+	margin-left: auto;
+
+#locationCon:
+	width: 819px;
+	height: 55px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+
+#locationIcon:
+	width: 195px;
+	height: 55px;
+
+
+#locationInfo:
+	width: 395px;
+	height: 55px;
+	margin-left: auto;
+
+
+#googlemapsPlug:
+	width: 340px;
+	height: 275px;
+	margin-left: 81px;
+	margin-top: 25px;

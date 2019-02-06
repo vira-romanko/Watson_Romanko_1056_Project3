@@ -69,7 +69,6 @@ body
 
 }
 
-
 #contactHeading {
 	background-color: black;
 	margin-top: 40px;
@@ -226,119 +225,7 @@ body
 	margin-top: 25px;
 }
 
-
-#heroImg
-{
-	width: 980px;
-	height: 477px;
-	margin-top: 50px;
-	background-color: #000;
-}
-
-
-
-#title1
-{
-	width: 980px;
-    height: 239px;
-    background-color: #000;
-    margin-top: 25px;
-}
-
-
-
-#newText
-{
-	margin-top: 15px;
-	width: 820px;
-	/*height: 182px;*/
-	
-	margin-left: 77px;
-	display: flex;
-	flex-direction: column;
-}
-
-#newP
-{
-	width: 820px;
-	height: 182px;
-	background-color: #000;
-	display: flex;
-}
-
-#seeLocation
-{
-	width: 175px;
-	height: 40px;
-	margin-top: 25px;
-	background-color: #000;
-	display: flex;
-}
-
-
-#title2
-{
-	width: 980px;
-	height: 224px;
-	background-color: #000;
-	margin-top: 62px;
-}
-
-
-#comingUp
-{
-	/*margin-left: 43px;*/
-	display: flex;
-	flex-direction: row;
-	justify-content: space-evenly;
-	margin-top: 50px;
-}
-
-#pjc1
-{
-	width:382px;
-   height: 428px;
-   background-color: #000;
-   display: flex;
-   justify-content: flex-start;
-}
-
-#pjc2
-{
-	width:382px;
-   height: 428px;
-   background-color: #000;
-   display: flex;
-   justify-content: flex-start;
-
-}
-
-#title3
-{
-	width: 980px;
-	height: 270px;
-	background-color: #000;
-	margin-top: 106px;
-}
-
-
-#getInvolved
-{
-	width: 980px;
-	height: 387px;
-	margin-top: 42px;
-	background-color: #000;
-}
-
-#localB
-{
-	width: 980px;
-	height: 375px;
-	margin-top: 48px;
-	background-color: #000;
-}
-
-
+/*footer*/
 
 
 #mainFooter
